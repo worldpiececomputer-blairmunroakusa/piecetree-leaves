@@ -1,9 +1,3 @@
-#### [..](https://github.com/blairmunroakusaBRANCH/rust.cellularautomata)
-#### [ROOT](https://github.com/blairmunroakusa)
-#### [TRUNK](https://github.com/blairmunroakusaTRUNK)
-#### [BRANCH](https://github.com/blairmunroakusaBRANCH)
-#### [LEAF](https://github.com/blairmunroakusaLEAF)
-
 A newjack's first Rust program,
 basic 1D cellular automata simulator.
 
